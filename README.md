@@ -41,8 +41,6 @@ Click OK to start the export process. The script will automatically name and sav
 Troubleshooting
 No Text Found: If a page doesn’t have the specified text box or the text box is empty, the script will skip the page and notify you of the error.
 File Naming Issues: The script automatically cleans file names of any invalid characters to ensure compatibility with your operating system.
-Support
-For issues or further assistance, please contact [Support Email] or refer to the Adobe InDesign scripting documentation for more advanced troubleshooting.
 
 Changelog
 Version 1.0: Initial release with basic page export and naming functionalities.
